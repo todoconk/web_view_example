@@ -1,4 +1,4 @@
-# WebViewExample
+# WebViewExample 1
 
 This is a tutorial Xcode project explaining how to embed a WebView into a native OSX application. Detailed steps can be found [on our blog](http://blog.lostdecadegames.com/).
 
